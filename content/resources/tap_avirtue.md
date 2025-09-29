@@ -4,6 +4,8 @@ description: A passage from Aristotle's study on virtue for the text analysis pr
 file: /courses/24-200-ancient-philosophy-fall-2004/0244a15bf02da7e778eab8f0f6c72a18_tap_avirtue.pdf
 file_size: 63095
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

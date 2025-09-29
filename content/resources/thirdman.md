@@ -4,6 +4,8 @@ description: An argument about theory of forms by Plato, and Aristotle.
 file: /courses/24-200-ancient-philosophy-fall-2004/9f2211a1e85ce0c98d67959c059a2924_thirdman.pdf
 file_size: 75377
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
