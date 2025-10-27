@@ -5,8 +5,6 @@ description: A discussion about the project of the Republic, division of goods, 
 file: /courses/24-200-ancient-philosophy-fall-2004/07f33db3454cbf7b4cb6fab350d917ef_repgoods.pdf
 file_size: 105373
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

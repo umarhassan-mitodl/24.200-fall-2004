@@ -4,8 +4,6 @@ description: Assigned passage from Plato's study for the text analysis presentat
 file: /courses/24-200-ancient-philosophy-fall-2004/7cb46bb68dadca192497b46e2c7c942f_tap_rep5.pdf
 file_size: 59754
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

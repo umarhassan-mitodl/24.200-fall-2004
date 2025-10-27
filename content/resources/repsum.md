@@ -4,8 +4,6 @@ description: An argument on justice and happiness.
 file: /courses/24-200-ancient-philosophy-fall-2004/81416a43ca11a619c8c44b87a63f38b7_repsum.pdf
 file_size: 52145
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

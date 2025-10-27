@@ -4,8 +4,6 @@ description: A passage from the Plato's study for the text analysis presentation
 file: /courses/24-200-ancient-philosophy-fall-2004/7d96cd8c70990e1d36f79a80cf94e6f2_tapphaedo.pdf
 file_size: 62370
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

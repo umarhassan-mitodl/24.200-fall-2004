@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -24,7 +22,7 @@ Shields, Christopher., ed. _The Blackwell Guide to Ancient Philosophy_. Oxford, 
 
 The Lucretius is available on the web. If you'd prefer to have a hard copy, you may order them yourself on the web or by contacting the instructor. Additional texts will be handed out in class or available on the server, as needed. The course will be focused on primary sources. Secondary sources will be assigned in class when appropriate.
 
-In many cases, complete versions of the texts can be found through [Project Gutenberg](http://www.gutenberg.org/), although these translations may differ from those used in the course.
+In many cases, complete versions of the texts can be found through {{% resource_link "81483d1f-0818-41f7-bd58-43f6a91444f9" "Project Gutenberg" %}}, although these translations may differ from those used in the course.
 
 {{< tableopen >}}
 {{< theadopen >}}
