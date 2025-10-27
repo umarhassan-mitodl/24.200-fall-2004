@@ -10,7 +10,7 @@ uid: 415abb88-dafd-8e84-f3c8-38c93948765d
 ---
 ## General Philosophy Links
 
-- [American Philosophical Association](http://www.apaonline.org/)  
-- [American Philosophical Society](https://www.amphilsoc.org/)
-- [The Philosophers' Magazine](https://www.philosophersmag.com/)
-- [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/contents.html)
+- {{% resource_link "4adedec0-5215-42d3-a027-713028c949e2" "American Philosophical Association" %}}  
+- {{% resource_link "e01c57de-274a-450e-aa5e-0570002dd846" "American Philosophical Society" %}}
+- {{% resource_link "5ee4013c-b5c8-4c50-9184-a885d7c9d306" "The Philosophers' Magazine" %}}
+- {{% resource_link "7ce6f9f7-38fb-41fd-bd51-3266fa02d5b6" "Stanford Encyclopedia of Philosophy" %}}
